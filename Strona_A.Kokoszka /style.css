@@ -1,0 +1,127 @@
+nav {
+  padding: 2px;
+  font-size: 27px;
+}
+header {
+  padding: 5px;
+  text-align: center; 
+  font-size: 35px;
+}
+
+body {
+	background-color:rgb(190, 184, 173);
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse; 
+  width: 100%;
+  font-size: 20px;
+}
+
+th {
+  border: 1px solid black; 
+  text-align: left;
+  padding: 8px;
+  font-size: 25px;
+}
+
+td {
+  border: 1px solid #000000; 
+  text-align: left;
+  padding: 8px;
+}
+
+
+h2{
+  font-size: 35px;
+}
+
+p{
+	font-size: 25px;
+}
+
+article{
+
+	padding: 10px;
+	width: 70%;
+	float: left; 
+}
+
+footer {
+  position: fixed;
+  background-color: antiquewhite;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+
+section{
+	text-align: left;
+	padding: 8px;
+    width: 33%;
+    float: right;
+}
+
+
+a:link {
+color: green;
+text-decoration: none;
+}
+a:visited {
+color: darkolivegreen;
+text-decoration: none;
+}
+
+a:hover {
+color: greenyellow;
+text-decoration: none;
+}
+
+img{
+	padding: 4px;
+}
+
+.obrazki{
+    width: 500px;
+    height: 500px;
+}
+
+
+.linki a:link{
+    background-color: green;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.linki a:visited {
+    background-color: green;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.linki a:hover{
+    background-color: darkgreen;
+}
+
+.linki a:active {
+  background-color: darkgreen;
+}
+
+.galeria{
+  width: 60%;
+}
+
+
+#nazwane {
+    width: 60%;
+}
+
